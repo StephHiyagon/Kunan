@@ -1,0 +1,179 @@
+*{
+  /*margin:0;
+  padding:0;*/
+  font-family:'Raleway', sans-serif;
+  color:#b5b6b7;
+}
+
+.rojo{
+  color:red;
+}
+
+.subline{
+  color:#707274;
+  text-decoration: underline;
+}
+
+h1,h3,h5{
+  width: 80%;
+  margin:20px auto;
+}
+
+h1,h3{
+  color:black;
+}
+
+.datos{
+  width: 100%;
+  margin:auto 0;
+  margin-bottom: 20px;
+}
+
+input[type="text"]{
+  border:1px;
+  border-bottom: 1px solid black;
+  display:inline-block;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+input[type="number"]{
+  margin-bottom: 20px;
+}
+
+label, select{
+  display:inline-block;
+  margin-bottom: 20px;
+}
+
+.right.segundo{
+  margin-top: 120px;
+}
+
+.left.segundo{
+  margin-top: 40px;
+}
+
+.form1{
+  position:relative;
+  width: 80%;
+  margin:20px auto;
+}
+
+.left{
+  float:left;
+  width: 40%;
+}
+
+.right{
+  float:right;
+  width: 40%;
+}
+
+label[for="ambito"]{
+  margin-top: 40px;
+}
+
+label[for="indicar"]{
+  margin-top: 20px;
+}
+
+label[for="si"]{
+  margin-top:20px;
+}
+
+label[for="registropub"]{
+  margin-top: 700px;
+}
+
+.tercero{
+  clear: both;
+  margin-left:0;
+}
+
+div>h3{
+  margin-left:0;
+}
+
+input[type="checkbox"]{
+  margin-bottom: 5px;
+}
+
+
+.cuarto{
+  float:right;
+  width: 40%;
+  margin-top: 120px;
+}
+
+.quinto{
+  float: left;
+  width: 40%;
+}
+
+.sexto{
+  clear:both;
+}
+
+.siete{
+  float:right;
+}
+
+label[for="fuentes"]{
+  margin-top: 40px;
+}
+
+label[for="exacto"]{
+  margin-top: 40px;
+}
+
+.ocho{
+  float:left;
+}
+
+input[name="fuentes"]{
+  width: 80%;
+}
+
+.nueve{
+  clear: both;
+}
+
+.diez{
+  margin-top: 20px;
+  margin-left: 0;
+  float:right;
+}
+
+.once{
+  float:left;
+  width: 40%;
+}
+
+.doce{
+  clear: both;
+}
+
+.guardar{
+  text-align: center;
+}
+
+.guardar>a{
+  display:inline-block;
+  text-decoration: none;
+  margin:20px auto;
+  text-align: center;
+  padding:10px;
+  background-color: orange;
+  color:white;
+  box-shadow: 2px 3px 0px #d35400;
+}
+
+.guardar:hover >a{
+  box-shadow: 0 0 0;
+  padding-top: 5px;
+}
+
+.gloss{
+  float:right;
+}
